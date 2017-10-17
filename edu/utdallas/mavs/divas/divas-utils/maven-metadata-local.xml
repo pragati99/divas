@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.utdallas.mavs.divas</groupId>
+  <artifactId>divas-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.19-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170219200549</lastUpdated>
+  </versioning>
+</metadata>

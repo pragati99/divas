@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Oct 22 14:28:07 CDT 2014
+4486054907e94a782f3a8ef7352b594abbe11232@default-http\://mavs.utdallas.edu/archiva/repository/internal/.lastUpdated=1414006087456
+http\://mavs.utdallas.edu/archiva/repository/internal/.error=Could not transfer artifact edu.utdallas.mavs.divas\:divas-mts\:pom\:4.0.19-SNAPSHOT from/to internal (http\://mavs.utdallas.edu/archiva/repository/internal)\: Access denied to http\://mavs.utdallas.edu/archiva/repository/internal/edu/utdallas/mavs/divas/divas-mts/4.0.19-SNAPSHOT/divas-mts-4.0.19-SNAPSHOT.pom . Status code 401

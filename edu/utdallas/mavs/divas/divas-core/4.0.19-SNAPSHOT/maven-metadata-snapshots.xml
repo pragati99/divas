@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>edu.utdallas.mavs.divas</groupId>
+  <artifactId>divas-core</artifactId>
+  <version>4.0.19-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+      <timestamp>20130503.005320</timestamp>
+    </snapshot>
+    <lastUpdated>20130503005320</lastUpdated>
+  </versioning>
+</metadata>

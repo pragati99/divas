@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 13 23:29:44 CST 2015
+4486054907e94a782f3a8ef7352b594abbe11232@default-http\://mavs.utdallas.edu/archiva/repository/internal/.lastUpdated=1421213384481
+http\://mavs.utdallas.edu/archiva/repository/internal/.error=Could not transfer artifact edu.utdallas.mavs.divas\:divas-core\:pom\:4.0.19-SNAPSHOT from/to internal (http\://mavs.utdallas.edu/archiva/repository/internal)\: java.net.ConnectException\: connection timed out to http\://mavs.utdallas.edu/archiva/repository/internal/edu/utdallas/mavs/divas/divas-core/4.0.19-SNAPSHOT/divas-core-4.0.19-SNAPSHOT.pom

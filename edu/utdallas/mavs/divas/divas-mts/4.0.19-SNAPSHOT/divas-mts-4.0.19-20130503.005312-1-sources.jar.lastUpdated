@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Feb 05 07:16:58 PST 2016
-f76fec33ad58609e3c801eacd50590d0b9bf317e@default-snapshots-http\://mavs.utdallas.edu/archiva/repository/snapshots/.lastUpdated=1454685418193
-http\://mavs.utdallas.edu/archiva/repository/snapshots/.error=Could not transfer artifact edu.utdallas.mavs.divas\:divas-mts\:jar\:sources\:4.0.19-20130503.005312-1 from/to snapshots (http\://mavs.utdallas.edu/archiva/repository/snapshots)\: connect timed out
